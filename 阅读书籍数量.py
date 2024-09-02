@@ -43,4 +43,4 @@ line_chart = (
 
 line_chart.render('线性回归预测阅读时间.html')
 
-# https://www.kaggle.com/datasets/trushildhokiya/number-of-books-read-simple-linear-regression
+
